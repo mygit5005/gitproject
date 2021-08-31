@@ -30,3 +30,8 @@ a{
 .float-left{
     float:left;
 }
+.center{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
